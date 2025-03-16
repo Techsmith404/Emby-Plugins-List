@@ -3,12 +3,12 @@
 List of all 3rd party plugins I could find for Emby Media Server from either the Emby forums page or from Github repos. If you know of any other plugins not listed here please feel free to make a pull request or open a ticket. I will do my best to keep this updated but make no promises. 
  
 ## Table of Contents
- - General
- - Channels
- - Management
- - Notifications
- - Stats
- - Utilities
+ - [General](#general)
+ - [Channels](#channels)
+ - [Management](#management)
+ - [Notifications](#notifications)
+ - [Stats](#stats)
+ - [Utilities](#utilities)
  
 ## General
 Plugins that dont really fit into a specific category
@@ -36,8 +36,8 @@ ___
 ___
 ## Notifications
 Plugins that add ways to get notifications from various sources
-
 ___
+
 - [Discord Notifications](https://emby.media/community/index.php?/topic/82370-new-plugin-discord-notifications/) - Send notifications to a discord channel
 ___
 ## Stats
