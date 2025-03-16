@@ -36,7 +36,6 @@ ___
 ___
 ## Notifications
 Plugins that add ways to get notifications from various sources
-___
 
 ___
 - [Discord Notifications](https://emby.media/community/index.php?/topic/82370-new-plugin-discord-notifications/) - Send notifications to a discord channel
