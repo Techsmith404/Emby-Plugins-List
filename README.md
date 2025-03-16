@@ -9,6 +9,7 @@ List of all 3rd party plugins I could find for Emby Media Server from either the
  - [Notifications](#notifications)
  - [Stats](#stats)
  - [Utilities](#utilities)
+ - [Themes](#themes)
  
 ## General
 Plugins that dont really fit into a specific category
@@ -47,4 +48,9 @@ ___
 ___
 ## Utilities
 Plugins that add tools to your server
+___
+## Themes
+Themes for the Web UI
+___
+
 ___
