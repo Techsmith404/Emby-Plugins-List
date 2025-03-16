@@ -8,6 +8,7 @@ List of all 3rd party plugins I could find for Emby Media Server from either the
  - [Management](#management)
  - [Notifications](#notifications)
  - [Stats](#stats)
+ - [Subtitles](#subtitles)
  - [Utilities](#utilities)
  - [Themes](#themes)
  
@@ -25,7 +26,7 @@ Plugins that add or manage live tv channels or other types of channels
 ___
 
 - [Watch History](https://emby.media/community/index.php?/topic/115921-watch-history-an-emby-channel-plugin/) - Display what other users are watching in a channel
-- [VirtualTV](https://emby.media/community/index.php?/topic/80828-virtualtv-plugin/) - create custom channels based on conditions of your Emby library
+- [VirtualTV](https://emby.media/community/index.php?/topic/80828-virtualtv-plugin/) - Create custom channels based on conditions of your Emby library
 - [Pseudo TV](https://emby.media/community/index.php?/topic/124492-pseudo-tv-for-emby/) - Same as above
 - [MyTV](https://emby.media/community/index.php?/topic/136352-mytv-beta-pseudotv-alternative/) - PseudoTV alternative
 
@@ -40,16 +41,24 @@ Plugins that add ways to get notifications from various sources
 ___
 
 - [Discord Notifications](https://emby.media/community/index.php?/topic/82370-new-plugin-discord-notifications/) - Send notifications to a discord channel
+- [Emby.Notification.Slack](https://emby.media/community/index.php?/topic/39844-new-plugin-embynotificationslack/) - Send notifications via [incoming webhooks](https://api.slack.com/incoming-webhooks) to the slack channel of your choice
 ___
 ## Stats
 Plugins to display statistics about your server
 ___
 
 ___
+## Subtitles
+Plugins that add different ways to get subtitles
+___
+- [Live-Video-Translation](https://emby.media/community/index.php?/topic/135796-live-video-translation-plugin-beta-using-openai-whisper/) - Generate translated subtitles on the fly
+___
 ## Utilities
 Plugins that add tools to your server
 ___
-
+- [Export VODS from .m3u](https://emby.media/community/index.php?/topic/136247-plugin-export-vods-from-m3u-split-m3u-livetv-tvshows-movies-going-beta/) - Split m3u livetv, tvshows, movies
+- [Movie Auto Merge](https://emby.media/community/index.php?/topic/132345-movie-auto-merge-plugin/) - An alternative to the AutoCollection plugin
+- [Bulky](https://emby.media/community/index.php?/topic/117487-bulky-bulkmass-metadata-editor/) - Mass metadata editor
 ___
 ## Themes
 Themes for the Web UI
